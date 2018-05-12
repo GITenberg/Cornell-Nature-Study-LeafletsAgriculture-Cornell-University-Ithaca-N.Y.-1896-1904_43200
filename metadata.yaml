@@ -1,0 +1,32 @@
+_repo: Cornell-Nature-Study-LeafletsAgriculture-Cornell-University-Ithaca-N.Y.-1896-1904_43200
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43200-h/images/cover.jpg
+creator:
+  author:
+    agent_name: New York State College of Agriculture
+    aliases:
+    - Cornell University. Department of Agriculture
+    - State University of New York. New York State College of Agriculture
+    gutenberg_agent_id: '41924'
+    url: http://www.gutenberg.org/2009/agents/41924
+description: ''
+gutenberg_issued: '2013-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43200'
+  lccn: '05033602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature study'
+- !lcsh 'Natural history'
+- !lcc 'QH'
+title: "Cornell Nature-Study Leaflets\r\nBeing a selection, with revision, from the\
+  \ teachers' leaflets, home nature-study lessons, junior naturalist monthlies and\
+  \ other publications from the College of Agriculture, Cornell University, Ithaca,\
+  \ N.Y., 1896-1904"
+url: http://www.gutenberg.org/ebooks/43200
